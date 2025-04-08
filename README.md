@@ -1,5 +1,5 @@
 # Single-page-cv
-# Project URL: https://rococo-banoffee-dab42d.netlify.app/
+# Project URL: https://roadmap.sh/projects/single-page-cv
 
 Here's a README.md file of my CV webpage project:
 
