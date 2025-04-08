@@ -1,6 +1,6 @@
 # Single-page-cv
 Here's a README.md file of my CV webpage project:
-Github link: https://github.com/wills-12/Single-page-cv
+
 # Semantic HTML CV Webpage
 
 This project is a *semantic HTML resume* that replicates a professional CV layout using only HTML and minimal inline CSS for structure. It's built to be clean, accessible, and ready for future styling with CSS frameworks like Tailwind or Bootstrap.
