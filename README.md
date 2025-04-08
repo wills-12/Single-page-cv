@@ -1,4 +1,6 @@
 # Single-page-cv
+# Project URL: https://rococo-banoffee-dab42d.netlify.app/
+
 Here's a README.md file of my CV webpage project:
 
 # Semantic HTML CV Webpage
